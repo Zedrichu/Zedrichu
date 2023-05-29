@@ -32,7 +32,12 @@ Passionate Computer Science & Engineering student at DTU × EPFL. <br>Highly mot
 
 
 <!-- 
-
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![JetBrains](https://camo.githubusercontent.com/f6dddef330331de105e15fdeeb291cd6b2efa00ec0e5720247578c270b233d18/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a6574427261696e7326636f6c6f723d303030303030266c6f676f3d4a6574427261696e73266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![JFrog](https://camo.githubusercontent.com/7a8632fa191f3dec23ebc7dc1c98d086dd9aeac14210add377dfbdb4e08e51a9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a46726f6726636f6c6f723d323232323232266c6f676f3d4a46726f67266c6f676f436f6c6f723d343142463437266c6162656c3d)
 ![Prometheus](https://camo.githubusercontent.com/bb60f371abb297124a67d009afbfa15b9e0c1502585131e7c27ed86949d229fd/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d50726f6d65746865757326636f6c6f723d453635323243266c6f676f3d50726f6d657468657573266c6f676f436f6c6f723d464646464646266c6162656c3d)
