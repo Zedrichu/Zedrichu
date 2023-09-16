@@ -31,16 +31,17 @@
 ![VueJS](https://camo.githubusercontent.com/50decafa53f269e4c88e47320b85896b1823a4be4ac8d1913b197111e4a10da1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5675652e6a7326636f6c6f723d323232323232266c6f676f3d5675652e6a73266c6f676f436f6c6f723d344643303844266c6162656c3d)
 
 -->
-<!-- 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zedrichu&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zedrichu&theme=chartreuse-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Zedrichu&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Zedrichu&theme=chartreuse-dark&hide_border=true)
+
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zedrichu&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zedrichu&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
---> 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Zedrichu&icon=0&color=2)](https://visitcount.itsvg.in)
 
