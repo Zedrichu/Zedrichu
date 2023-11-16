@@ -25,7 +25,7 @@
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) --> ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) <!-- ![ContainerD](https://camo.githubusercontent.com/aa03945ad9ddcd2021b35e4e63e70f1d506511c6c5d0d1c5bfebcb78679ab17f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d636f6e7461696e65726426636f6c6f723d353735373537266c6f676f3d636f6e7461696e657264266c6f676f436f6c6f723d464646464646266c6162656c3d) --> ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![PowerShell](https://camo.githubusercontent.com/7170f2b11694c211616fec01be572d446b7b187a47396b3dbce4abc69c0eca75/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f7765725368656c6c26636f6c6f723d353339314645266c6f676f3d506f7765725368656c6c266c6f676f436f6c6f723d464646464646266c6162656c3d) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 </details>
 
-<details open>
+<details>
   <summary><b>⚜️ Quantum Computing</b></summary>
 
   ![Qiskit](https://camo.githubusercontent.com/0a88045e8d6bc8b0cd034705debb0d494f78465a3eb0ab0c3909dadad6ccefd9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5169736b697426636f6c6f723d363932394334266c6f676f3d5169736b6974266c6f676f436f6c6f723d464646464646266c6162656c3d) ![Q#](https://img.shields.io/badge/q%23(qdk)-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -38,7 +38,7 @@
 </details>
 
 <details>
-  <summary><b>🤖 Machine Learning \& Statistics</b></summary>
+  <summary><b>🤖 Machine Learning & Statistics</b></summary>
 
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  <!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) -->
 </details>
@@ -65,7 +65,7 @@
 
 -->
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zedrichu&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true)
 
 <!--
