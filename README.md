@@ -74,8 +74,9 @@
 
 -->
 
-## 📊 GitHub Stats:
 <!--
+## 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Zedrichu&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zedrichu&theme=chartreuse-dark&hide_border=true)
