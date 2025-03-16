@@ -1,4 +1,25 @@
-# 💫 About My Interest Areas and Familiar Tools
+
+## Hey, I'm Adrian 👋🏼.
+A bit about my journey and activity based in Copenhagen 🇩🇰:
+- 🚀 I’m actively exploring Artificial Intelligence & Algorithms, Quantum Computing and Cybersecurity
+- 🎓 Studying Software Engineering and AI:
+  * BSc in General Engineering @ [Technical University of Denmark](https://www.dtu.dk/) <img src=https://github.com/user-attachments/assets/a53f77a0-3db3-4755-a05c-7263f1f0374a width=20px/>
+  * Exchange Programme @ [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/) <img src=https://github.com/user-attachments/assets/7445a2a6-3c08-4906-93d4-c5da4f18c333  alt="EPFL Logo" width=64px/>
+  * MSc in Computer Science & Engineering @ [DTU](https://www.dtu.dk/) <img src=https://github.com/user-attachments/assets/a53f77a0-3db3-4755-a05c-7263f1f0374a width=20px/>
+
+- 🔭 I’m currently working in DevOps and Software Engineering @ [GN Group](https://www.gn.com/) <img src=https://github.com/user-attachments/assets/7ad78231-6897-45e0-b2e9-10beaa0fb7e0 width=32px/>
+
+- ⚡ Fun fact: I recently fell in love with padel 🎾
+<!--
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- ⚡ Fun fact: ...
+-->
+
+
+
+## 💫 Areas of Interest and Familiar Workflows:
 
 <details open>
   <summary><b>💻 Programming Languages</b></summary>
