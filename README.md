@@ -1,15 +1,16 @@
 
 ## Hey, I'm Adrian 👋🏼.
-A bit about my journey and activity based in Copenhagen 🇩🇰:
+A bit about my journey and activity, based in Copenhagen 🇩🇰:
 - 🚀 I’m actively exploring Artificial Intelligence & Algorithms, Quantum Computing and Cybersecurity
-- 🎓 Studying Software Engineering and AI:
+  
+- 🎓 Studying Software Engineering and Artificial Intelligence:
   * BSc in General Engineering @ [Technical University of Denmark](https://www.dtu.dk/) <img src=https://github.com/user-attachments/assets/a53f77a0-3db3-4755-a05c-7263f1f0374a width=20px/>
   * Exchange Programme @ [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/) <img src=https://github.com/user-attachments/assets/7445a2a6-3c08-4906-93d4-c5da4f18c333  alt="EPFL Logo" width=64px/>
   * MSc in Computer Science & Engineering @ [DTU](https://www.dtu.dk/) <img src=https://github.com/user-attachments/assets/a53f77a0-3db3-4755-a05c-7263f1f0374a width=20px/>
 
-- 🔭 I’m currently working in DevOps and Software Engineering @ [GN Group](https://www.gn.com/) <img src=https://github.com/user-attachments/assets/7ad78231-6897-45e0-b2e9-10beaa0fb7e0 width=32px/>
+- 🔭 I’m currently working as a Solution Developer (Software & Data Engineering, DevOps) @ [Saxo Bank](https://www.home.saxo/) <img width="80px" alt="image" src="https://github.com/user-attachments/assets/559b7173-e417-4360-b498-26ec682f5726" />
 
-- ⚡ Fun fact: I recently fell in love with padel 🎾
+- ⚡ Fun fact: I'm in love with padel 🎾
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
