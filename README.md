@@ -8,9 +8,8 @@ A bit about my journey and activity, based in Copenhagen 🇩🇰:
   * Exchange Programme @ [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/) <img src=https://github.com/user-attachments/assets/7445a2a6-3c08-4906-93d4-c5da4f18c333  alt="EPFL Logo" width=64px/>
   * MSc in Computer Science & Engineering @ [DTU](https://www.dtu.dk/) <img src=https://github.com/user-attachments/assets/a53f77a0-3db3-4755-a05c-7263f1f0374a width=20px/>
 
-- 🔭 I’m currently working as a Software Engineer (Software & Data Engineering, DevOps) @ [Milestone Systems]
-
-<!-- (https://www.home.saxo/) <img width="80px" alt="image" src="https://github.com/user-attachments/assets/559b7173-e417-4360-b498-26ec682f5726" /> -->
+- 🔭 I’m currently working as a Software Engineer (Software & Data Engineering, DevOps) @ [Milestone Systems](https://www.milestonesys.com/)
+<!-- <img width="80px" alt="image" src="https://github.com/user-attachments/assets/559b7173-e417-4360-b498-26ec682f5726" /> -->
 
 - ⚡ Fun fact: I'm in love with padel 🎾
 <!--
